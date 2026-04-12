@@ -29,7 +29,7 @@ PYSPARK_JOB_2 = {
     "pyspark_job": {"main_python_file_uri": GCS_JOB_FILE_2},
 }
 
-GCS_JOB_FILE_3 = f"gs://{COMPOSER_BUCKET}/data/INGESTION/claims.py"
+GCS_JOB_FILE_3 = f"gs://{COMPOSER_BUCKET}/data/INGESTION/Claims.py"
 PYSPARK_JOB_3 = {
     "reference": {"project_id": PROJECT_ID},
     "placement": {"cluster_name": CLUSTER_NAME},
