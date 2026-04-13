@@ -69,3 +69,5 @@ we need to create a pipeline, the result of this pipeline will be fact tables an
 4. ICD Data - ICD codes are a standardized system used by health care providers map diagnosis code and description. (API)
 
 
+
+
